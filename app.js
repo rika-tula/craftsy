@@ -10,4 +10,4 @@ app.get('/',(req,res)=> {
     res.sendFile(path.join(__dirname,'./views/home.html'))
 })
 
-app.listen(port, () => console.log('abierto el servidor'))
+app.listen(port, () => console.log('el servidor esta abierto'))

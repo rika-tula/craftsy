@@ -1,0 +1,10 @@
+:root{
+    --orange:#ff4500;
+    --white:white;
+
+    --FamilyRoboto:'Roboto',sans-serif;
+}
+
+*{
+    font-family: var(--FamilyRoboto);
+}
