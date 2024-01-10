@@ -1,0 +1,21 @@
+.main-header{
+    background-color:var(--orange);
+}
+
+.logo{
+    margin: 4px;
+    position: relative;
+    top: 13px;
+    left: 15px;
+    width: 85px;
+}
+
+.burger-menu{
+    color: var(--white);
+    border: solid 1px var(--white);
+    border-radius: 3px ;
+    margin: 0px 0px 0px 280px;
+    padding: 3px 5px 3px 5px;
+    position: relative;
+    bottom: 22px;
+}
